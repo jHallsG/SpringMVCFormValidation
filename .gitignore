@@ -1,0 +1,8 @@
+# IDE-specific files
+.classpath
+.project
+.settings/
+
+# Maven build directory
+target/
+
